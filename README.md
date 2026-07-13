@@ -225,10 +225,6 @@ pytest --cov=app tests/
 | `HUMAN_APPROVAL_MODE` | Enable approval gates | true |
 | `MAX_RETRY_ATTEMPTS` | Task retry limit | 3 |
 
-## License
-
-Copyright 2025 SwarmMind. All rights reserved.
-
 ## Contributing
 
 Contributions are welcome! Please read our contributing guidelines and submit pull requests to the `develop` branch.
